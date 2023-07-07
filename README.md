@@ -1,4 +1,5 @@
 Localized Weather Research Project
+
 Overview of Project:
 When we watch the weather forecast, we are given an average temperature, humidity, allergy index, and other indicators for our areas. This is typically pretty accurate, but for people that garden or people with lot of allergies or sensitivities, a more accurate indicator would be helpful. In this project, we will investigate the differences in localized weather conditions and how they affect allergies and plant life. 
 Main Research Question:
